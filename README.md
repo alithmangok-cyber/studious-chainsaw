@@ -27,4 +27,4 @@ TECHNOLOGIES USED
 HTML5-page structue
 
 
-I only used html since my knowledge  is still limited to html but with time as I continue to expand my  knowledge I will expand it more with CSS and Javascript
+I only used html since my knowledge  is still limited to html but with time as I continue to expand my  knowledge I will expand it more with CSS and Javascript.
